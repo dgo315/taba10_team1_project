@@ -2,29 +2,36 @@ TABA Academy 10기 1조 프로젝트 GitHub입니다.<br>
 ---
 
 팀원 소개
-- 단국대학교 모바일시스템공학과 이동근 : 프로젝트 매니저, React UI/UX 개발
-- 단국대학교 컴퓨터공학과 성윤수
-- 단국대학교 컴퓨터공학과 안도현
-- 단국대학교 모바일시스템공학과 정민서
-- 단국대학교 모바일시스템공학과 제연우
+- 이동근 (단국대학교 모바일시스템공학과 ) : 프로젝트 매니저, React UI/UX 개발
+- 성윤수 (단국대학교 컴퓨터공학과) : 
+- 안도현 (단국대학교 컴퓨터공학과) : 
+- 정민서 (단국대학교 모바일시스템공학과) : 
+- 제연우 (단국대학교 모바일시스템공학과) : 
 
 ---
-> Notion <br>
-https://www.notion.so/TABA-Project-2a07616da893809781fbcba8daf56879?source=copy_link
+📝[Notion](https://www.notion.so/TABA-Project-2a07616da893809781fbcba8daf56879?source=copy_link)
 
 
-> Canva <br>
-https://www.canva.com/design/DAG3tt8V2TQ/zOlrBlCeIoMdayBuy89vXw/edit?utm_content=DAG3tt8V2TQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+🖌️[Canva](https://www.canva.com/design/DAG3tt8V2TQ/zOlrBlCeIoMdayBuy89vXw/edit?utm_content=DAG3tt8V2TQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<br><br>
+---
+### 🌟 1. 프로젝트 소개
+디지털 기기 및 인프라 사용이 미숙하고 학습 기회가 부족한 분들이 사용할 수 있는 AI 기반 고령층 디지털 사용 학습 보조 서비스입니다. <br>
+
+저희 서비스는 <br>
+**1. 누구나 쉽게 디지털 인프라를 사용할 수 있는 것,**<br>
+**2. 언제 어디서나 혼자서도 디지털 인프라 사용을 학습할 수 있는 것,**<br>
+**3. 재밌고 효과적인 디지털 인프라 학습을 진행할 수 있는 것**을<br>
+가장 중요하게 생각합니다.
+
+### 🌟 2. 핵심 기능
 
 
-### 1. 프로젝트 소개
-해당 프로젝트는 주변에 디지털 사용을 알려줄 가족/지인이 없는 독거 및 1인 가구 고령층 사용자를 대상으로 한
-AI 기반 고령층 디지털 사용 학습 보조 앱입니다.
+### 🌟 3. 개발 기간
+2025.11.xx - 
 
 
-### 2. 
 
 
+---
 ### 유저 가이드
