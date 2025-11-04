@@ -1,4 +1,4 @@
-TABA Academy 10기 1조 프로젝트 GitHub입니다.<br>
+10th TABA Academy Team-1 Project<br>
 ---
 
 팀원 소개
